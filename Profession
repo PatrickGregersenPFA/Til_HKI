@@ -1,21 +1,21 @@
 Profession,Primære adgangsgivende uddannelser,Nærtliggende eller relaterede uddannelser
-Læge,Medicin,Biomedicin; Sundhed og Teknologi; Humanbiologi
-Advokat,Jura,Samfundsvidenskab; Erhvervsjura; Offentlig Administration
-Civilingeniør,Ingeniørvidenskab; Teknologi,Fysik; Matematik; IT og Softwareudvikling; Bygningsdesign
-Folkeskolelærer,Læreruddannelsen,Pædagogik; Uddannelsesvidenskab; Dansk eller Matematik (med efteruddannelse)
-Journalist,Journalistik,Medievidenskab; Kommunikation; Retorik; Dansk
-Psykolog,Psykologi,Pædagogik og Uddannelsesstudier; Kognitionsvidenskab; Socialrådgiveruddannelsen
-Sygeplejerske,Sygeplejerskeuddannelsen,Bioanalytiker; Ernæring og Sundhed; Fysioterapeut
-Tandlæge,Tandlægevidenskab,Tandplejer; Biomedicin
-Arkitekt,Arkitektur,Design; Bygningsdesign; Bygningskonstruktør; Landskabsarkitektur
-Pædagog,Pædagoguddannelsen,Socialrådgiveruddannelsen; Sociologi; Psykologi; Socialpædagogik
-IT-udvikler,Datalogi; Softwareudvikling,IT og Kommunikation; IT-ingeniør; Webudvikling; Multimediedesign
-Biolog,Biologi,Bioteknologi; Miljøvidenskab; Naturressourcer
-Apoteker,Farmaci,Biomedicin; Kemi; Sundhed og Teknologi
-Økonom,Økonomi; Erhvervsøkonomi,Statskundskab; Samfundsvidenskab; Finansiering og Regnskab; Matematik-Økonomi
-Socialrådgiver,Socialrådgiveruddannelsen,Pædagoguddannelsen; Sociologi; Antropologi
-Elektriker,Elektrikeruddannelsen (erhvervsuddannelse),Automationsteknolog; Energiteknolog
-Mekaniker,Mekanikeruddannelsen (erhvervsuddannelse),Produktionsteknolog; Maskinmester; Teknisk Designer
-Pilot,Pilotuddannelsen,Flyvelederuddannelsen; Luftfartsteknologi
-Politibetjent,Politiskolen,Offentlig Administration; Jura; Kriminologi
-Skuespiller,Skuespilleruddannelsen,Teater- og Performancestudier; Dramaturgi; Film- og Medievidenskab
+Læge,Medicin, Biomedicin -  Sundhed og Teknologi -  Humanbiologi
+Advokat,Jura,Samfundsvidenskab -  Erhvervsjura -  Offentlig Administration
+Civilingeniør,Ingeniørvidenskab -  Teknologi,Fysik -  Matematik -  IT og Softwareudvikling -  Bygningsdesign
+Folkeskolelærer,Læreruddannelsen,Pædagogik -  Uddannelsesvidenskab -  Dansk eller Matematik (med efteruddannelse)
+Journalist,Journalistik,Medievidenskab -  Kommunikation -  Retorik -  Dansk
+Psykolog,Psykologi,Pædagogik og Uddannelsesstudier -  Kognitionsvidenskab -  Socialrådgiveruddannelsen
+Sygeplejerske,Sygeplejerskeuddannelsen,Bioanalytiker -  Ernæring og Sundhed -  Fysioterapeut
+Tandlæge,Tandlægevidenskab,Tandplejer -  Biomedicin
+Arkitekt,Arkitektur,Design -  Bygningsdesign -  Bygningskonstruktør -  Landskabsarkitektur
+Pædagog,Pædagoguddannelsen,Socialrådgiveruddannelsen -  Sociologi -  Psykologi -  Socialpædagogik
+IT-udvikler,Datalogi -  Softwareudvikling,IT og Kommunikation -  IT-ingeniør -  Webudvikling -  Multimediedesign
+Biolog,Biologi,Bioteknologi -  Miljøvidenskab -  Naturressourcer
+Apoteker,Farmaci,Biomedicin -  Kemi -  Sundhed og Teknologi
+Økonom,Økonomi -  Erhvervsøkonomi,Statskundskab -  Samfundsvidenskab -  Finansiering og Regnskab -  Matematik-Økonomi
+Socialrådgiver,Socialrådgiveruddannelsen,Pædagoguddannelsen -  Sociologi -  Antropologi
+Elektriker,Elektrikeruddannelsen (erhvervsuddannelse),Automationsteknolog -  Energiteknolog
+Mekaniker,Mekanikeruddannelsen (erhvervsuddannelse),Produktionsteknolog -  Maskinmester -  Teknisk Designer
+Pilot,Pilotuddannelsen,Flyvelederuddannelsen -  Luftfartsteknologi
+Politibetjent,Politiskolen,Offentlig Administration -  Jura -  Kriminologi
+Skuespiller,Skuespilleruddannelsen,Teater- og Performancestudier -  Dramaturgi -  Film- og Medievidenskab
